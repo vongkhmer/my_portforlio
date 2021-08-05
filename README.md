@@ -8,7 +8,7 @@ I would like to thank OSS community for such cool libraries that I can use for f
 
 Please feel free to use my code, if you like.
 
-To learn about NodeJs, check out the [NodeJs documentation]("https://nodejs.org/en/").\
+To learn about NodeJs, check out the [NodeJs documentation](https://nodejs.org/en/).\
 To learn about React, check out the [React documentation](https://reactjs.org/).\
 To learn about Bootstrap, check out the [Bootstrap documentation](https://getbootstrap.com/).
 
